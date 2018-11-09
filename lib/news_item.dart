@@ -50,7 +50,7 @@ class NewsItem extends StatelessWidget {
                 newsItem.description,
                 textAlign: TextAlign.justify,
               ),
-            );
+            ),
           ],
         ),
       ),
