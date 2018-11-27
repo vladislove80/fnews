@@ -1,6 +1,6 @@
 # fnews
 
-CBC rss news reader
+CBC rss news reader (with Flatter)
 
 ## Getting Started
 
